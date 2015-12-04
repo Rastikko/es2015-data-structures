@@ -8,7 +8,8 @@ module.exports = function (grunt) {
            files: {
                'dist/quick-sort.js': 'src/quick-sort.js',
                'dist/insertion-sort.js': 'src/insertion-sort.js',
-               'dist/answers/insertion-sort-part-1.js': 'src/answers/insertion-sort-part-1.js'
+               'dist/answers/insertion-sort-part-1.js': 'src/answers/insertion-sort-part-1.js',
+               'dist/answers/quicksort4.js': 'src/answers/quicksort4.js'
            }
        }
    },
